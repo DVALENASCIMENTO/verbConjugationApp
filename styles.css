@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.app-container {
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #4CAF50;
+    font-size: 36px;
+}
+
+select {
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.conjugation-container {
+    display: none;
+    margin-top: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h2 {
+    font-size: 28px;
+    color: #333;
+}
+
+.tense {
+    margin-bottom: 20px;
+}
+
+.tense h3 {
+    font-size: 22px;
+    color: #555;
+}
+
+.tense p {
+    font-size: 18px;
+    color: #666;
+}
+
+.example {
+    font-style: italic;
+    color: #888;
+}

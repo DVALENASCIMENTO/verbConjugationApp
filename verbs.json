@@ -1,0 +1,502 @@
+{
+    "be": {
+        "presentSimple": "am/are/is",
+        "pastSimple": "was/were",
+        "futureSimple": "will be"
+    },
+    "have": {
+        "presentSimple": "have/has",
+        "pastSimple": "had",
+        "futureSimple": "will have"
+    },
+    "do": {
+        "presentSimple": "do/does",
+        "pastSimple": "did",
+        "futureSimple": "will do"
+    },
+    "say": {
+        "presentSimple": "say/says",
+        "pastSimple": "said",
+        "futureSimple": "will say"
+    },
+    "get": {
+        "presentSimple": "get/gets",
+        "pastSimple": "got",
+        "futureSimple": "will get"
+    },
+    "make": {
+        "presentSimple": "make/makes",
+        "pastSimple": "made",
+        "futureSimple": "will make"
+    },
+    "go": {
+        "presentSimple": "go/goes",
+        "pastSimple": "went",
+        "futureSimple": "will go"
+    },
+    "know": {
+        "presentSimple": "know/knows",
+        "pastSimple": "knew",
+        "futureSimple": "will know"
+    },
+    "take": {
+        "presentSimple": "take/takes",
+        "pastSimple": "took",
+        "futureSimple": "will take"
+    },
+    "see": {
+        "presentSimple": "see/sees",
+        "pastSimple": "saw",
+        "futureSimple": "will see"
+    },
+    "come": {
+        "presentSimple": "come/comes",
+        "pastSimple": "came",
+        "futureSimple": "will come"
+    },
+    "think": {
+        "presentSimple": "think/thinks",
+        "pastSimple": "thought",
+        "futureSimple": "will think"
+    },
+    "look": {
+        "presentSimple": "look/looks",
+        "pastSimple": "looked",
+        "futureSimple": "will look"
+    },
+    "want": {
+        "presentSimple": "want/wants",
+        "pastSimple": "wanted",
+        "futureSimple": "will want"
+    },
+    "give": {
+        "presentSimple": "give/gives",
+        "pastSimple": "gave",
+        "futureSimple": "will give"
+    },
+    "use": {
+        "presentSimple": "use/uses",
+        "pastSimple": "used",
+        "futureSimple": "will use"
+    },
+    "find": {
+        "presentSimple": "find/finds",
+        "pastSimple": "found",
+        "futureSimple": "will find"
+    },
+    "tell": {
+        "presentSimple": "tell/tells",
+        "pastSimple": "told",
+        "futureSimple": "will tell"
+    },
+    "ask": {
+        "presentSimple": "ask/asks",
+        "pastSimple": "asked",
+        "futureSimple": "will ask"
+    },
+    "work": {
+        "presentSimple": "work/works",
+        "pastSimple": "worked",
+        "futureSimple": "will work"
+    },
+    "seem": {
+        "presentSimple": "seem/seems",
+        "pastSimple": "seemed",
+        "futureSimple": "will seem"
+    },
+    "feel": {
+        "presentSimple": "feel/feels",
+        "pastSimple": "felt",
+        "futureSimple": "will feel"
+    },
+    "try": {
+        "presentSimple": "try/tries",
+        "pastSimple": "tried",
+        "futureSimple": "will try"
+    },
+    "leave": {
+        "presentSimple": "leave/leaves",
+        "pastSimple": "left",
+        "futureSimple": "will leave"
+    },
+    "call": {
+        "presentSimple": "call/calls",
+        "pastSimple": "called",
+        "futureSimple": "will call"
+    },
+    "need": {
+        "presentSimple": "need/needs",
+        "pastSimple": "needed",
+        "futureSimple": "will need"
+    },
+    "become": {
+        "presentSimple": "become/becomes",
+        "pastSimple": "became",
+        "futureSimple": "will become"
+    },
+    "put": {
+        "presentSimple": "put/puts",
+        "pastSimple": "put",
+        "futureSimple": "will put"
+    },
+    "mean": {
+        "presentSimple": "mean/means",
+        "pastSimple": "meant",
+        "futureSimple": "will mean"
+    },
+    "keep": {
+        "presentSimple": "keep/keeps",
+        "pastSimple": "kept",
+        "futureSimple": "will keep"
+    },
+    "let": {
+        "presentSimple": "let/lets",
+        "pastSimple": "let",
+        "futureSimple": "will let"
+    },
+    "begin": {
+        "presentSimple": "begin/begins",
+        "pastSimple": "began",
+        "futureSimple": "will begin"
+    },
+    "help": {
+        "presentSimple": "help/helps",
+        "pastSimple": "helped",
+        "futureSimple": "will help"
+    },
+    "talk": {
+        "presentSimple": "talk/talks",
+        "pastSimple": "talked",
+        "futureSimple": "will talk"
+    },
+    "turn": {
+        "presentSimple": "turn/turns",
+        "pastSimple": "turned",
+        "futureSimple": "will turn"
+    },
+    "start": {
+        "presentSimple": "start/starts",
+        "pastSimple": "started",
+        "futureSimple": "will start"
+    },
+    "show": {
+        "presentSimple": "show/shows",
+        "pastSimple": "showed",
+        "futureSimple": "will show"
+    },
+    "hear": {
+        "presentSimple": "hear/hears",
+        "pastSimple": "heard",
+        "futureSimple": "will hear"
+    },
+    "play": {
+        "presentSimple": "play/plays",
+        "pastSimple": "played",
+        "futureSimple": "will play"
+    },
+    "run": {
+        "presentSimple": "run/runs",
+        "pastSimple": "ran",
+        "futureSimple": "will run"
+    },
+    "move": {
+        "presentSimple": "move/moves",
+        "pastSimple": "moved",
+        "futureSimple": "will move"
+    },
+    "like": {
+        "presentSimple": "like/likes",
+        "pastSimple": "liked",
+        "futureSimple": "will like"
+    },
+    "live": {
+        "presentSimple": "live/lives",
+        "pastSimple": "lived",
+        "futureSimple": "will live"
+    },
+    "believe": {
+        "presentSimple": "believe/believes",
+        "pastSimple": "believed",
+        "futureSimple": "will believe"
+    },
+    "hold": {
+        "presentSimple": "hold/holds",
+        "pastSimple": "held",
+        "futureSimple": "will hold"
+    },
+    "bring": {
+        "presentSimple": "bring/brings",
+        "pastSimple": "brought",
+        "futureSimple": "will bring"
+    },
+    "happen": {
+        "presentSimple": "happen/happens",
+        "pastSimple": "happened",
+        "futureSimple": "will happen"
+    },
+    "write": {
+        "presentSimple": "write/writes",
+        "pastSimple": "wrote",
+        "futureSimple": "will write"
+    },
+    "provide": {
+        "presentSimple": "provide/provides",
+        "pastSimple": "provided",
+        "futureSimple": "will provide"
+    },
+    "sit": {
+        "presentSimple": "sit/sits",
+        "pastSimple": "sat",
+        "futureSimple": "will sit"
+    },
+    "stand": {
+        "presentSimple": "stand/stands",
+        "pastSimple": "stood",
+        "futureSimple": "will stand"
+    },
+    "lose": {
+        "presentSimple": "lose/loses",
+        "pastSimple": "lost",
+        "futureSimple": "will lose"
+    },
+    "pay": {
+        "presentSimple": "pay/pays",
+        "pastSimple": "paid",
+        "futureSimple": "will pay"
+    },
+    "meet": {
+        "presentSimple": "meet/meets",
+        "pastSimple": "met",
+        "futureSimple": "will meet"
+    },
+    "include": {
+        "presentSimple": "include/includes",
+        "pastSimple": "included",
+        "futureSimple": "will include"
+    },
+    "continue": {
+        "presentSimple": "continue/continues",
+        "pastSimple": "continued",
+        "futureSimple": "will continue"
+    },
+    "set": {
+        "presentSimple": "set/sets",
+        "pastSimple": "set",
+        "futureSimple": "will set"
+    },
+    "learn": {
+        "presentSimple": "learn/learns",
+        "pastSimple": "learned/learnt",
+        "futureSimple": "will learn"
+    },
+    "change": {
+        "presentSimple": "change/changes",
+        "pastSimple": "changed",
+        "futureSimple": "will change"
+    },
+    "lead": {
+        "presentSimple": "lead/leads",
+        "pastSimple": "led",
+        "futureSimple": "will lead"
+    },
+    "understand": {
+        "presentSimple": "understand/understands",
+        "pastSimple": "understood",
+        "futureSimple": "will understand"
+    },
+    "watch": {
+        "presentSimple": "watch/watches",
+        "pastSimple": "watched",
+        "futureSimple": "will watch"
+    },
+    "follow": {
+        "presentSimple": "follow/follows",
+        "pastSimple": "followed",
+        "futureSimple": "will follow"
+    },
+    "stop": {
+        "presentSimple": "stop/stops",
+        "pastSimple": "stopped",
+        "futureSimple": "will stop"
+    },
+    "create": {
+        "presentSimple": "create/creates",
+        "pastSimple": "created",
+        "futureSimple": "will create"
+    },
+    "speak": {
+        "presentSimple": "speak/speaks",
+        "pastSimple": "spoke",
+        "futureSimple": "will speak"
+    },
+    "read": {
+        "presentSimple": "read/reads",
+        "pastSimple": "read (pronounced 'red')",
+        "futureSimple": "will read"
+    },
+    "spend": {
+        "presentSimple": "spend/spends",
+        "pastSimple": "spent",
+        "futureSimple": "will spend"
+    },
+    "grow": {
+        "presentSimple": "grow/grows",
+        "pastSimple": "grew",
+        "futureSimple": "will grow"
+    },
+    "open": {
+        "presentSimple": "open/opens",
+        "pastSimple": "opened",
+        "futureSimple": "will open"
+    },
+    "walk": {
+        "presentSimple": "walk/walks",
+        "pastSimple": "walked",
+        "futureSimple": "will walk"
+    },
+    "win": {
+        "presentSimple": "win/wins",
+        "pastSimple": "won",
+        "futureSimple": "will win"
+    },
+    "offer": {
+        "presentSimple": "offer/offers",
+        "pastSimple": "offered",
+        "futureSimple": "will offer"
+    },
+    "remember": {
+        "presentSimple": "remember/remembers",
+        "pastSimple": "remembered",
+        "futureSimple": "will remember"
+    },
+    "love": {
+        "presentSimple": "love/loves",
+        "pastSimple": "loved",
+        "futureSimple": "will love"
+    },
+    "consider": {
+        "presentSimple": "consider/considers",
+        "pastSimple": "considered",
+        "futureSimple": "will consider"
+    },
+    "appear": {
+        "presentSimple": "appear/appears",
+        "pastSimple": "appeared",
+        "futureSimple": "will appear"
+    },
+    "buy": {
+        "presentSimple": "buy/buys",
+        "pastSimple": "bought",
+        "futureSimple": "will buy"
+    },
+    "wait": {
+        "presentSimple": "wait/waits",
+        "pastSimple": "waited",
+        "futureSimple": "will wait"
+    },
+    "serve": {
+        "presentSimple": "serve/serves",
+        "pastSimple": "served",
+        "futureSimple": "will serve"
+    },
+    "die": {
+        "presentSimple": "die/dies",
+        "pastSimple": "died",
+        "futureSimple": "will die"
+    },
+    "send": {
+        "presentSimple": "send/sends",
+        "pastSimple": "sent",
+        "futureSimple": "will send"
+    },
+    "expect": {
+        "presentSimple": "expect/expects",
+        "pastSimple": "expected",
+        "futureSimple": "will expect"
+    },
+    "build": {
+        "presentSimple": "build/builds",
+        "pastSimple": "built",
+        "futureSimple": "will build"
+    },
+    "stay": {
+        "presentSimple": "stay/stays",
+        "pastSimple": "stayed",
+        "futureSimple": "will stay"
+    },
+    "fall": {
+        "presentSimple": "fall/falls",
+        "pastSimple": "fell",
+        "futureSimple": "will fall"
+    },
+    "cut": {
+        "presentSimple": "cut/cuts",
+        "pastSimple": "cut",
+        "futureSimple": "will cut"
+    },
+    "reach": {
+        "presentSimple": "reach/reaches",
+        "pastSimple": "reached",
+        "futureSimple": "will reach"
+    },
+    "kill": {
+        "presentSimple": "kill/kills",
+        "pastSimple": "killed",
+        "futureSimple": "will kill"
+    },
+    "remain": {
+        "presentSimple": "remain/remains",
+        "pastSimple": "remained",
+        "futureSimple": "will remain"
+    },
+    "suggest": {
+        "presentSimple": "suggest/suggests",
+        "pastSimple": "suggested",
+        "futureSimple": "will suggest"
+    },
+    "raise": {
+        "presentSimple": "raise/raises",
+        "pastSimple": "raised",
+        "futureSimple": "will raise"
+    },
+    "pass": {
+        "presentSimple": "pass/passes",
+        "pastSimple": "passed",
+        "futureSimple": "will pass"
+    },
+    "sell": {
+        "presentSimple": "sell/sells",
+        "pastSimple": "sold",
+        "futureSimple": "will sell"
+    },
+    "require": {
+        "presentSimple": "require/requires",
+        "pastSimple": "required",
+        "futureSimple": "will require"
+    },
+    "report": {
+        "presentSimple": "report/reports",
+        "pastSimple": "reported",
+        "futureSimple": "will report"
+    },
+    "decide": {
+        "presentSimple": "decide/decides",
+        "pastSimple": "decided",
+        "futureSimple": "will decide"
+    },
+    "pull": {
+        "presentSimple": "pull/pulls",
+        "pastSimple": "pulled",
+        "futureSimple": "will pull"
+    },
+    "return": {
+        "presentSimple": "return/returns",
+        "pastSimple": "returned",
+        "futureSimple": "will return"
+    },
+    "explain": {
+        "presentSimple": "explain/explains",
+        "pastSimple": "explained",
+        "futureSimple": "will explain"
+    }
+}
