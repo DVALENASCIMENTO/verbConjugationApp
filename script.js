@@ -71,10 +71,18 @@ function conjugateVerb(verb, data) {
             speakText(tense.example);
         });
 
+        // Link para a música
+        const songLink = document.createElement('p');
+        const songUrl = tenseConjugations.song; // Obtém o URL da música
+        if (songUrl) {
+            songLink.innerHTML = `Listen to the song: <a href="${songUrl}" target="_blank">here</a>`;
+        }
+
         tenseDiv.appendChild(tenseTitle);
         tenseDiv.appendChild(conjugation);
         tenseDiv.appendChild(example);
         tenseDiv.appendChild(soundButton); // Adiciona o botão de som ao div do tempo verbal
+        tenseDiv.appendChild(songLink); // Adiciona o link da música
 
         tensesDiv.appendChild(tenseDiv);
     });

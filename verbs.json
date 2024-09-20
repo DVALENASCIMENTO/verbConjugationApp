@@ -1,12 +1,13 @@
 {
-    "be": {
+        "be": {
             "presentSimple": "am/are/is",
             "presentExample": "I am happy today.",
             "pastSimple": "was/were",
             "pastExample": "She was at the party last night.",
             "futureSimple": "will be",
             "futureExample": "They will be at the meeting tomorrow.",
-            "song": "Let It Be - The Beatles"
+            "song": "Let It Be - The Beatles",
+            "songLink": "https://www.youtube.com/watch?v=QDYfEb7L2o0"
         },
         "have": {
             "presentSimple": "have/has",
@@ -15,7 +16,8 @@
             "pastExample": "We had a great time at the concert.",
             "futureSimple": "will have",
             "futureExample": "He will have a big surprise soon.",
-            "song": "Have I Told You Lately - Rod Stewart"
+            "song": "Have I Told You Lately - Rod Stewart",
+            "songLink": "https://www.youtube.com/watch?v=FVv9p9L88XY"
         },
         "do": {
             "presentSimple": "do/does",
@@ -24,7 +26,8 @@
             "pastExample": "They did everything they could to help.",
             "futureSimple": "will do",
             "futureExample": "I will do the dishes later.",
-            "song": "Do I Wanna Know? - Arctic Monkeys"
+            "song": "Do I Wanna Know? - Arctic Monkeys",
+            "songLink": "https://www.youtube.com/watch?v=5qFtvT2Q60I"
         },
         "say": {
             "presentSimple": "say/says",
@@ -33,7 +36,8 @@
             "pastExample": "She said she would be late.",
             "futureSimple": "will say",
             "futureExample": "I will say something nice during the speech.",
-            "song": "Say Something - A Great Big World"
+            "song": "Say Something - A Great Big World",
+            "songLink": "https://www.youtube.com/watch?v=FRy0nCzq42I"
         },
         "get": {
             "presentSimple": "get/gets",
@@ -42,7 +46,8 @@
             "pastExample": "They got the tickets for the show.",
             "futureSimple": "will get",
             "futureExample": "We will get the results tomorrow.",
-            "song": "Get Lucky - Daft Punk"
+            "song": "Get Lucky - Daft Punk",
+            "songLink": "https://www.youtube.com/watch?v=5NV6Rdv1a3I"
         },
         "make": {
             "presentSimple": "make/makes",
@@ -51,7 +56,8 @@
             "pastExample": "I made a mistake on my homework.",
             "futureSimple": "will make",
             "futureExample": "They will make a decision soon.",
-            "song": "Make You Feel My Love - Adele"
+            "song": "Make You Feel My Love - Adele",
+            "songLink": "https://www.youtube.com/watch?v=1B2xXV0qZKQ"
         },
         "go": {
             "presentSimple": "go/goes",
@@ -60,7 +66,8 @@
             "pastExample": "They went to the beach last weekend.",
             "futureSimple": "will go",
             "futureExample": "We will go to Paris next summer.",
-            "song": "Here I Go Again - Whitesnake"
+            "song": "Here I Go Again - Whitesnake",
+            "songLink": "https://www.youtube.com/watch?v=3LRr0ON7URM"
         },
         "know": {
             "presentSimple": "know/knows",
@@ -69,7 +76,8 @@
             "pastExample": "I knew she would be late.",
             "futureSimple": "will know",
             "futureExample": "You will know the truth soon.",
-            "song": "I Know What You Did Last Summer - Shawn Mendes & Camila Cabello"
+            "song": "I Know What You Did Last Summer - Shawn Mendes & Camila Cabello",
+            "songLink": "https://www.youtube.com/watch?v=q1Ue1eG1Xdk"
         },
         "take": {
             "presentSimple": "take/takes",
@@ -78,7 +86,8 @@
             "pastExample": "He took the last cookie.",
             "futureSimple": "will take",
             "futureExample": "I will take the bus to work tomorrow.",
-            "song": "Take On Me - a-ha"
+            "song": "Take On Me - a-ha",
+            "songLink": "https://www.youtube.com/watch?v=djV11Xbc914"
         },
         "see": {
             "presentSimple": "see/sees",
@@ -87,7 +96,8 @@
             "pastExample": "They saw a movie last night.",
             "futureSimple": "will see",
             "futureExample": "We will see the results tomorrow.",
-            "song": "I Can See Clearly Now - Johnny Nash"
+            "song": "I Can See Clearly Now - Johnny Nash",
+            "songLink": "https://www.youtube.com/watch?v=7uhW94u5taM"
         },
         "come": {
             "presentSimple": "come/comes",
@@ -96,7 +106,8 @@
             "pastExample": "They came late to the party.",
             "futureSimple": "will come",
             "futureExample": "He will come to the meeting tomorrow.",
-            "song": "Come Together - The Beatles"
+            "song": "Come Together - The Beatles",
+            "songLink": "https://www.youtube.com/watch?v=44bOBl6pd2c"
         },
         "think": {
             "presentSimple": "think/thinks",
@@ -105,7 +116,8 @@
             "pastExample": "She thought about the problem.",
             "futureSimple": "will think",
             "futureExample": "They will think about your proposal.",
-            "song": "Thinking Out Loud - Ed Sheeran"
+            "song": "Thinking Out Loud - Ed Sheeran",
+            "songLink": "https://www.youtube.com/watch?v=lp-EO5I60KA"
         },
         "look": {
             "presentSimple": "look/looks",
@@ -114,7 +126,8 @@
             "pastExample": "They looked at the stars all night.",
             "futureSimple": "will look",
             "futureExample": "I will look into the issue tomorrow.",
-            "song": "Look What You Made Me Do - Taylor Swift"
+            "song": "Look What You Made Me Do - Taylor Swift",
+            "songLink": "https://www.youtube.com/watch?v=3tmd-ClpJxA"
         },
         "want": {
             "presentSimple": "want/wants",
@@ -123,7 +136,8 @@
             "pastExample": "They wanted to go to the party.",
             "futureSimple": "will want",
             "futureExample": "You will want to see this movie.",
-            "song": "I Want It That Way - Backstreet Boys"
+            "song": "I Want It That Way - Backstreet Boys",
+            "songLink": "https://www.youtube.com/watch?v=4fndeDfaWCg"
         },
         "give": {
             "presentSimple": "give/gives",
@@ -132,7 +146,8 @@
             "pastExample": "He gave me a present for my birthday.",
             "futureSimple": "will give",
             "futureExample": "They will give their feedback soon.",
-            "song": "Give Me One Reason - Tracy Chapman"
+            "song": "Give Me One Reason - Tracy Chapman",
+            "songLink": "https://www.youtube.com/watch?v=5Ycmuk6x0Sg"
         },
         "use": {
             "presentSimple": "use/uses",
@@ -141,7 +156,8 @@
             "pastExample": "They used the old system before the upgrade.",
             "futureSimple": "will use",
             "futureExample": "We will use the new software next week.",
-            "song": "Use Somebody - Kings of Leon"
+            "song": "Use Somebody - Kings of Leon",
+            "songLink": "https://www.youtube.com/watch?v=wwQbYxWqGGg"
         },
         "find": {
             "presentSimple": "find/finds",
@@ -150,7 +166,8 @@
             "pastExample": "He found his keys under the couch.",
             "futureSimple": "will find",
             "futureExample": "You will find the answer soon.",
-            "song": "Find Yourself - Lucas Grabeel"
+            "song": "Find Yourself - Lucas Grabeel",
+            "songLink": "https://www.youtube.com/watch?v=pmRXvKxbZ_U"
         },
         "tell": {
             "presentSimple": "tell/tells",
@@ -159,636 +176,697 @@
             "pastExample": "They told me the news this morning.",
             "futureSimple": "will tell",
             "futureExample": "I will tell you a secret later.",
-            "song": "Tell Me Something Good - Rufus & Chaka Khan"
+            "song": "Tell Me Something Good - Rufus & Chaka Khan",
+            "songLink": "https://www.youtube.com/watch?v=Qpgl1t7WwCs"
         },
         "ask": {
             "presentSimple": "ask/asks",
-            "presentExample": "He asks many questions during class.",
+            "presentExample": "He asks many questions.",
             "pastSimple": "asked",
-            "pastExample": "She asked for help with the project.",
+            "pastExample": "She asked for help with her project.",
             "futureSimple": "will ask",
-            "futureExample": "They will ask for your opinion tomorrow.",
-            "song": "Asking Alexandria - The Black"
+            "futureExample": "I will ask the teacher for advice.",
+            "song": "Ask - The Smiths",
+            "songLink": "https://www.youtube.com/watch?v=fQdcfsqpZoI"
         },
         "work": {
             "presentSimple": "work/works",
-            "presentExample": "I work from home most days.",
+            "presentExample": "She works from home.",
             "pastSimple": "worked",
-            "pastExample": "They worked together on the project.",
+            "pastExample": "He worked on the project last night.",
             "futureSimple": "will work",
-            "futureExample": "We will work on the new design next week.",
-            "song": "Work - Rihanna"
-        },
-        "seem": {
-            "presentSimple": "seem/seems",
-            "presentExample": "It seems like it will rain today.",
-            "pastSimple": "seemed",
-            "pastExample": "He seemed tired after the trip.",
-            "futureSimple": "will seem",
-            "futureExample": "She will seem more relaxed after the exam.",
-            "song": "Seemed Like a Good Idea at the Time - The Darkness"
-        },
-        "feel": {
-            "presentSimple": "feel/feels",
-            "presentExample": "I feel great after my morning workout.",
-            "pastSimple": "felt",
-            "pastExample": "She felt nervous before the presentation.",
-            "futureSimple": "will feel",
-            "futureExample": "You will feel better after some rest.",
-            "song": "Feel Good Inc. - Gorillaz"
-        },
-        "try": {
-            "presentSimple": "try/tries",
-            "presentExample": "He tries his best in every match.",
-            "pastSimple": "tried",
-            "pastExample": "They tried to fix the problem yesterday.",
-            "futureSimple": "will try",
-            "futureExample": "I will try to call you tomorrow.",
-            "song": "Try - Pink"
-        },
-        "leave": {
-            "presentSimple": "leave/leaves",
-            "presentExample": "She leaves for work at 7 AM.",
-            "pastSimple": "left",
-            "pastExample": "They left the party early.",
-            "futureSimple": "will leave",
-            "futureExample": "We will leave the house in an hour.",
-            "song": "Leaving on a Jet Plane - John Denver"
+            "futureExample": "We will work on the proposal next week.",
+            "song": "Work From Home - Fifth Harmony",
+            "songLink": "https://www.youtube.com/watch?v=5GL9JoH4S1Y"
         },
         "call": {
             "presentSimple": "call/calls",
-            "presentExample": "I call my parents every weekend.",
+            "presentExample": "I call my friend every day.",
             "pastSimple": "called",
-            "pastExample": "She called me last night.",
+            "pastExample": "She called me yesterday.",
             "futureSimple": "will call",
-            "futureExample": "They will call you when they arrive.",
-            "song": "Call Me Maybe - Carly Rae Jepsen"
-        },
-        "keep": {
-            "presentSimple": "keep/keeps",
-            "presentExample": "He keeps his promises.",
-            "pastSimple": "kept",
-            "pastExample": "They kept their secret for years.",
-            "futureSimple": "will keep",
-            "futureExample": "I will keep this book for you.",
-            "song": "Keep Holding On - Avril Lavigne"
-        },
-        "begin": {
-            "presentSimple": "begin/begins",
-            "presentExample": "She begins her day with yoga.",
-            "pastSimple": "began",
-            "pastExample": "He began his studies last year.",
-            "futureSimple": "will begin",
-            "futureExample": "They will begin the meeting soon.",
-            "song": "Begin Again - Taylor Swift"
-        },
-        "help": {
-            "presentSimple": "help/helps",
-            "presentExample": "She helps her friends with homework.",
-            "pastSimple": "helped",
-            "pastExample": "He helped his neighbor fix the car.",
-            "futureSimple": "will help",
-            "futureExample": "I will help you move this weekend.",
-            "song": "Help! - The Beatles"
-        },
-        "talk": {
-            "presentSimple": "talk/talks",
-            "presentExample": "He talks too much during meetings.",
-            "pastSimple": "talked",
-            "pastExample": "They talked about their vacation plans.",
-            "futureSimple": "will talk",
-            "futureExample": "We will talk about it later.",
-            "song": "Talk - Coldplay"
-        },
-        "turn": {
-            "presentSimple": "turn/turns",
-            "presentExample": "She turns the lights off before bed.",
-            "pastSimple": "turned",
-            "pastExample": "They turned the page to a new chapter.",
-            "futureSimple": "will turn",
-            "futureExample": "I will turn 30 next month.",
-            "song": "Turn the Page - Metallica"
-        },
-        "start": {
-            "presentSimple": "start/starts",
-            "presentExample": "I start work at 9 AM.",
-            "pastSimple": "started",
-            "pastExample": "They started a new project last week.",
-            "futureSimple": "will start",
-            "futureExample": "She will start her new job next month.",
-            "song": "Start Me Up - The Rolling Stones"
-        },
-        "show": {
-            "presentSimple": "show/shows",
-            "presentExample": "He shows great talent in music.",
-            "pastSimple": "showed",
-            "pastExample": "She showed me her new car yesterday.",
-            "futureSimple": "will show",
-            "futureExample": "I will show you how to use this app.",
-            "song": "Show Me the Way - Peter Frampton"
-        },
-        "hear": {
-            "presentSimple": "hear/hears",
-            "presentExample": "I hear birds outside my window.",
-            "pastSimple": "heard",
-            "pastExample": "He heard the news from a friend.",
-            "futureSimple": "will hear",
-            "futureExample": "You will hear from me soon.",
-            "song": "I Heard It Through the Grapevine - Marvin Gaye"
-        },
-        "play": {
-            "presentSimple": "play/plays",
-            "presentExample": "He plays soccer on weekends.",
-            "pastSimple": "played",
-            "pastExample": "They played cards last night.",
-            "futureSimple": "will play",
-            "futureExample": "We will play tennis tomorrow.",
-            "song": "Play That Funky Music - Wild Cherry"
-        },
-        "run": {
-            "presentSimple": "run/runs",
-            "presentExample": "She runs every morning.",
-            "pastSimple": "ran",
-            "pastExample": "He ran a marathon last year.",
-            "futureSimple": "will run",
-            "futureExample": "They will run in the race next weekend.",
-            "song": "Run - Foo Fighters"
-        },
-        "move": {
-            "presentSimple": "move/moves",
-            "presentExample": "I move to a new apartment next week.",
-            "pastSimple": "moved",
-            "pastExample": "They moved to a different city last year.",
-            "futureSimple": "will move",
-            "futureExample": "He will move the meeting to 2 PM.",
-            "song": "Move Along - The All-American Rejects"
-        },
-        "live": {
-            "presentSimple": "live/lives",
-            "presentExample": "She lives in a big city.",
-            "pastSimple": "lived",
-            "pastExample": "He lived in Paris for a year.",
-            "futureSimple": "will live",
-            "futureExample": "We will live by the beach next summer.",
-            "song": "Live and Let Die - Paul McCartney & Wings"
-        },
-        "believe": {
-            "presentSimple": "believe/believes",
-            "presentExample": "He believes in second chances.",
-            "pastSimple": "believed",
-            "pastExample": "She believed the story.",
-            "futureSimple": "will believe",
-            "futureExample": "They will believe you once they see proof.",
-            "song": "Believe - Cher"
-        },
-        "bring": {
-            "presentSimple": "bring/brings",
-            "presentExample": "She brings lunch to work every day.",
-            "pastSimple": "brought",
-            "pastExample": "They brought gifts for the host.",
-            "futureSimple": "will bring",
-            "futureExample": "I will bring dessert to the party.",
-            "song": "Bring Me to Life - Evanescence"
-        },
-        "write": {
-            "presentSimple": "write/writes",
-            "presentExample": "I write emails every morning.",
-            "pastSimple": "wrote",
-            "pastExample": "She wrote a book last year.",
-            "futureSimple": "will write",
-            "futureExample": "They will write the report by Friday.",
-            "song": "Write On Me - Fifth Harmony"
-        },
-        "sit": {
-            "presentSimple": "sit/sits",
-            "presentExample": "She sits by the window in class.",
-            "pastSimple": "sat",
-            "pastExample": "He sat next to me during the meeting.",
-            "futureSimple": "will sit",
-            "futureExample": "I will sit with you at lunch.",
-            "song": "Sitting on the Dock of the Bay - Otis Redding"
-        },
-        "stand": {
-            "presentSimple": "stand/stands",
-            "presentExample": "He stands tall and confident.",
-            "pastSimple": "stood",
-            "pastExample": "They stood in line for tickets.",
-            "futureSimple": "will stand",
-            "futureExample": "We will stand together through this.",
-            "song": "Stand by Me - Ben E. King"
-        },
-        "lose": {
-            "presentSimple": "lose/loses",
-            "presentExample": "He loses his keys often.",
-            "pastSimple": "lost",
-            "pastExample": "She lost her phone on the bus.",
-            "futureSimple": "will lose",
-            "futureExample": "They will lose the game if they don't try harder.",
-            "song": "Lose Yourself - Eminem"
-        },
-        "pay": {
-            "presentSimple": "pay/pays",
-            "presentExample": "She pays her bills online.",
-            "pastSimple": "paid",
-            "pastExample": "He paid for dinner last night.",
-            "futureSimple": "will pay",
-            "futureExample": "I will pay you back tomorrow.",
-            "song": "Payphone - Maroon 5"
-        },
-        "meet": {
-            "presentSimple": "meet/meets",
-            "presentExample": "She meets new people easily.",
-            "pastSimple": "met",
-            "pastExample": "They met at the conference last year.",
-            "futureSimple": "will meet",
-            "futureExample": "We will meet again next month.",
-            "song": "Meet Me Halfway - Black Eyed Peas"
-        },
-        "include": {
-            "presentSimple": "include/includes",
-            "presentExample": "The package includes free delivery.",
-            "pastSimple": "included",
-            "pastExample": "He included all the necessary details.",
-            "futureSimple": "will include",
-            "futureExample": "The plan will include a backup option.",
-            "song": "Include Me In Your Life - Diana Ross"
-        },
-        "set": {
-            "presentSimple": "set/sets",
-            "presentExample": "He sets the alarm for 6 AM every day.",
-            "pastSimple": "set",
-            "pastExample": "They set the table for dinner.",
-            "futureSimple": "will set",
-            "futureExample": "I will set the record straight.",
-            "song": "Set Fire to the Rain - Adele"
-        },
-        "change": {
-            "presentSimple": "change/changes",
-            "presentExample": "She changes her password every month.",
-            "pastSimple": "changed",
-            "pastExample": "They changed their travel plans.",
-            "futureSimple": "will change",
-            "futureExample": "I will change my address soon.",
-            "song": "A Change Is Gonna Come - Sam Cooke"
-        },
-        "lead": {
-            "presentSimple": "lead/leads",
-            "presentExample": "She leads the team with confidence.",
-            "pastSimple": "led",
-            "pastExample": "He led the group to victory.",
-            "futureSimple": "will lead",
-            "futureExample": "They will lead the discussion tomorrow.",
-            "song": "Lead the Way - Mariah Carey"
-        },
-        "understand": {
-            "presentSimple": "understand/understands",
-            "presentExample": "He understands the situation well.",
-            "pastSimple": "understood",
-            "pastExample": "She understood the instructions perfectly.",
-            "futureSimple": "will understand",
-            "futureExample": "You will understand when you see it.",
-            "song": "Understand - Shawn Mendes"
-        },
-        "watch": {
-            "presentSimple": "watch/watches",
-            "presentExample": "She watches TV every evening.",
-            "pastSimple": "watched",
-            "pastExample": "They watched a movie last night.",
-            "futureSimple": "will watch",
-            "futureExample": "I will watch the game tomorrow.",
-            "song": "Watch Me - Silentó"
-        },
-        "follow": {
-            "presentSimple": "follow/follows",
-            "presentExample": "He follows the rules strictly.",
-            "pastSimple": "followed",
-            "pastExample": "She followed her dreams.",
-            "futureSimple": "will follow",
-            "futureExample": "They will follow the instructions carefully.",
-            "song": "Follow You - Imagine Dragons"
-        },
-        "stop": {
-            "presentSimple": "stop/stops",
-            "presentExample": "The bus stops at the next station.",
-            "pastSimple": "stopped",
-            "pastExample": "They stopped working at 5 PM.",
-            "futureSimple": "will stop",
-            "futureExample": "I will stop by your house later.",
-            "song": "Don't Stop Believin' - Journey"
-        },
-        "create": {
-            "presentSimple": "create/creates",
-            "presentExample": "He creates beautiful artwork.",
-            "pastSimple": "created",
-            "pastExample": "She created a new design last week.",
-            "futureSimple": "will create",
-            "futureExample": "I will create a new account tomorrow.",
-            "song": "Create In Me - Hillsong Worship"
-        },
-        "allow": {
-            "presentSimple": "allow/allows",
-            "presentExample": "The software allows users to edit files.",
-            "pastSimple": "allowed",
-            "pastExample": "They allowed him to join the team.",
-            "futureSimple": "will allow",
-            "futureExample": "We will allow more people in soon.",
-            "song": "Allow Me To Reintroduce Myself - Jay-Z"
-        },
-        "add": {
-            "presentSimple": "add/adds",
-            "presentExample": "He adds sugar to his coffee.",
-            "pastSimple": "added",
-            "pastExample": "She added a new member to the group.",
-            "futureSimple": "will add",
-            "futureExample": "I will add this book to my list.",
-            "song": "Add It Up - Violent Femmes"
-        },
-        "continue": {
-            "presentSimple": "continue/continues",
-            "presentExample": "She continues to work hard every day.",
-            "pastSimple": "continued",
-            "pastExample": "They continued despite the obstacles.",
-            "futureSimple": "will continue",
-            "futureExample": "We will continue the project tomorrow.",
-            "song": "Continue - Omar Apollo"
-        },
-        "learn": {
-            "presentSimple": "learn/learns",
-            "presentExample": "He learns quickly in class.",
-            "pastSimple": "learned/learnt",
-            "pastExample": "She learned how to play the guitar last year.",
-            "futureSimple": "will learn",
-            "futureExample": "They will learn a new language soon.",
-            "song": "Learn To Fly - Foo Fighters"
-        },
-        "change": {
-            "presentSimple": "change/changes",
-            "presentExample": "She changes her outfit every day.",
-            "pastSimple": "changed",
-            "pastExample": "They changed their plans last minute.",
-            "futureSimple": "will change",
-            "futureExample": "I will change the tires tomorrow.",
-            "song": "A Change is Gonna Come - Sam Cooke"
-        },
-        "build": {
-            "presentSimple": "build/builds",
-            "presentExample": "He builds houses for a living.",
-            "pastSimple": "built",
-            "pastExample": "They built the house last year.",
-            "futureSimple": "will build",
-            "futureExample": "We will build the structure next week.",
-            "song": "Build Me Up Buttercup - The Foundations"
-        },
-        "spend": {
-            "presentSimple": "spend/spends",
-            "presentExample": "He spends too much money on clothes.",
-            "pastSimple": "spent",
-            "pastExample": "They spent the whole day shopping.",
-            "futureSimple": "will spend",
-            "futureExample": "I will spend the weekend at the beach.",
-            "song": "Spending My Time - Roxette"
-        },
-        "cut": {
-            "presentSimple": "cut/cuts",
-            "presentExample": "He cuts the paper into small pieces.",
-            "pastSimple": "cut",
-            "pastExample": "They cut the ribbon at the opening ceremony.",
-            "futureSimple": "will cut",
-            "futureExample": "I will cut the cake tomorrow.",
-            "song": "Cut You Off - Selena Gomez"
-        },
-        "rise": {
-            "presentSimple": "rise/rises",
-            "presentExample": "The sun rises in the east.",
-            "pastSimple": "rose",
-            "pastExample": "He rose to the top of the class.",
-            "futureSimple": "will rise",
-            "futureExample": "The stock prices will rise soon.",
-            "song": "Rise - Katy Perry"
-        },
-        "fall": {
-            "presentSimple": "fall/falls",
-            "presentExample": "She falls asleep early every night.",
-            "pastSimple": "fell",
-            "pastExample": "He fell down the stairs.",
-            "futureSimple": "will fall",
-            "futureExample": "The leaves will fall in autumn.",
-            "song": "Fallin' - Alicia Keys"
-        },
-        "catch": {
-            "presentSimple": "catch/catches",
-            "presentExample": "He catches the bus every morning.",
-            "pastSimple": "caught",
-            "pastExample": "They caught the thief last night.",
-            "futureSimple": "will catch",
-            "futureExample": "I will catch the next flight to New York.",
-            "song": "Catch My Breath - Kelly Clarkson"
-        },
-        "reach": {
-            "presentSimple": "reach/reaches",
-            "presentExample": "He reaches the top of the mountain.",
-            "pastSimple": "reached",
-            "pastExample": "They reached their destination safely.",
-            "futureSimple": "will reach",
-            "futureExample": "I will reach out to you tomorrow.",
-            "song": "Reach Out I'll Be There - The Four Tops"
-        },
-        "choose": {
-            "presentSimple": "choose/chooses",
-            "presentExample": "She chooses her clothes carefully.",
-            "pastSimple": "chose",
-            "pastExample": "They chose the right candidate for the job.",
-            "futureSimple": "will choose",
-            "futureExample": "We will choose the best option.",
-            "song": "You Can’t Always Get What You Want - The Rolling Stones"
-        },
-        "turn": {
-            "presentSimple": "turn/turns",
-            "presentExample": "He turns the key in the lock.",
-            "pastSimple": "turned",
-            "pastExample": "She turned off the lights.",
-            "futureSimple": "will turn",
-            "futureExample": "I will turn in my report tomorrow.",
-            "song": "Turn Around - Bonnie Tyler"
-        },
-        "show": {
-            "presentSimple": "show/shows",
-            "presentExample": "He shows his artwork to the gallery.",
-            "pastSimple": "showed",
-            "pastExample": "They showed the film at the festival.",
-            "futureSimple": "will show",
-            "futureExample": "I will show you the results later.",
-            "song": "Show Must Go On - Queen"
+            "futureExample": "He will call you later.",
+            "song": "Call Me Maybe - Carly Rae Jepsen",
+            "songLink": "https://www.youtube.com/watch?v=fWNaR-rxAic"
         },
         "try": {
             "presentSimple": "try/tries",
-            "presentExample": "She tries her best in every task.",
+            "presentExample": "They try their best in every game.",
             "pastSimple": "tried",
-            "pastExample": "He tried a new recipe last night.",
+            "pastExample": "I tried the new restaurant last night.",
             "futureSimple": "will try",
-            "futureExample": "They will try the new method next week.",
-            "song": "Try Again - Aaliyah"
+            "futureExample": "She will try the new recipe tomorrow.",
+            "song": "Try - Pink",
+            "songLink": "https://www.youtube.com/watch?v=2yB8v0Lw4WY"
         },
-        "hear": {
-            "presentSimple": "hear/hears",
-            "presentExample": "He hears the music from the concert.",
-            "pastSimple": "heard",
-            "pastExample": "She heard the news yesterday.",
-            "futureSimple": "will hear",
-            "futureExample": "We will hear the results soon.",
-            "song": "I Can Hear Music - The Ronettes"
-        },
-        "write": {
-            "presentSimple": "write/writes",
-            "presentExample": "She writes in her journal every day.",
-            "pastSimple": "wrote",
-            "pastExample": "He wrote a letter to his friend.",
-            "futureSimple": "will write",
-            "futureExample": "I will write the report by tomorrow.",
-            "song": "Write Your Name - LUNA"
-        },
-        "build": {
-            "presentSimple": "build/builds",
-            "presentExample": "He builds model airplanes as a hobby.",
-            "pastSimple": "built",
-            "pastExample": "They built a new playground last summer.",
-            "futureSimple": "will build",
-            "futureExample": "We will build a new house next year.",
-            "song": "Build Me Up Buttercup - The Foundations"
-        },
-        "read": {
-            "presentSimple": "read/reads",
-            "presentExample": "She reads books every evening.",
-            "pastSimple": "read",
-            "pastExample": "He read the novel last month.",
-            "futureSimple": "will read",
-            "futureExample": "They will read the document tomorrow.",
-            "song": "Read All About It - Emeli Sandé"
-        },
-        "bring": {
-            "presentSimple": "bring/brings",
-            "presentExample": "He brings his lunch to work every day.",
-            "pastSimple": "brought",
-            "pastExample": "She brought her camera to the party.",
-            "futureSimple": "will bring",
-            "futureExample": "I will bring the documents later.",
-            "song": "Bring Me to Life - Evanescence"
-        },
-        "drive": {
-            "presentSimple": "drive/drives",
-            "presentExample": "She drives to work every morning.",
-            "pastSimple": "drove",
-            "pastExample": "They drove across the country last summer.",
-            "futureSimple": "will drive",
-            "futureExample": "We will drive to the beach tomorrow.",
-            "song": "Drive - The Cars"
-        },
-        "learn": {
-            "presentSimple": "learn/learns",
-            "presentExample": "He learns new skills online.",
-            "pastSimple": "learned/learnt",
-            "pastExample": "She learned to cook last year.",
-            "futureSimple": "will learn",
-            "futureExample": "I will learn more about the topic.",
-            "song": "Learn to Fly - Foo Fighters"
-        },
-        "move": {
-            "presentSimple": "move/moves",
-            "presentExample": "They move the furniture around.",
-            "pastSimple": "moved",
-            "pastExample": "He moved to a new city last month.",
-            "futureSimple": "will move",
-            "futureExample": "We will move into our new house next week.",
-            "song": "Move Like Jagger - Maroon 5"
-        },
-        "lose": {
-            "presentSimple": "lose/loses",
-            "presentExample": "She loses her keys often.",
-            "pastSimple": "lost",
-            "pastExample": "He lost his wallet yesterday.",
-            "futureSimple": "will lose",
-            "futureExample": "They will lose the match if they don't practice.",
-            "song": "Lose Yourself - Eminem"
-        },
-        "win": {
-            "presentSimple": "win/wins",
-            "presentExample": "He wins the race every year.",
-            "pastSimple": "won",
-            "pastExample": "She won the award last month.",
-            "futureSimple": "will win",
-            "futureExample": "We will win the game if we work together.",
-            "song": "We Are the Champions - Queen"
-        },
-        "keep": {
-            "presentSimple": "keep/keeps",
-            "presentExample": "She keeps her promises.",
-            "pastSimple": "kept",
-            "pastExample": "He kept his room clean.",
-            "futureSimple": "will keep",
-            "futureExample": "They will keep their plans secret.",
-            "song": "Keep Holding On - Avril Lavigne"
-        },
-        "send": {
-            "presentSimple": "send/sends",
-            "presentExample": "He sends emails every day.",
-            "pastSimple": "sent",
-            "pastExample": "She sent the package yesterday.",
-            "futureSimple": "will send",
-            "futureExample": "I will send the information soon.",
-            "song": "Send My Love (To Your New Lover) - Adele"
-        },
-        "open": {
-            "presentSimple": "open/opens",
-            "presentExample": "She opens the store at 9 AM.",
-            "pastSimple": "opened",
-            "pastExample": "They opened the new branch last month.",
-            "futureSimple": "will open",
-            "futureExample": "I will open the file later.",
-            "song": "Open Your Eyes - Snow Patrol"
-        },
-        "close": {
-            "presentSimple": "close/closes",
-            "presentExample": "He closes the door quietly.",
-            "pastSimple": "closed",
-            "pastExample": "She closed the book after reading.",
-            "futureSimple": "will close",
-            "futureExample": "We will close the shop at 7 PM.",
-            "song": "Close to You - The Carpenters"
-        },
-        "sing": {
-            "presentSimple": "sing/sings",
-            "presentExample": "He sings in the choir.",
-            "pastSimple": "sang",
-            "pastExample": "She sang at the concert last night.",
-            "futureSimple": "will sing",
-            "futureExample": "They will sing at the wedding.",
-            "song": "Sing - My Chemical Romance"
-        },
-        "dance": {
-            "presentSimple": "dance/dances",
-            "presentExample": "She dances at the studio every week.",
-            "pastSimple": "danced",
-            "pastExample": "He danced at the party last weekend.",
-            "futureSimple": "will dance",
-            "futureExample": "We will dance at the festival.",
-            "song": "Dance Monkey - Tones and I"
-        },
-        "remember": {
-            "presentSimple": "remember/remembers",
-            "presentExample": "He remembers his first day at work.",
-            "pastSimple": "remembered",
-            "pastExample": "She remembered to call her mother.",
-            "futureSimple": "will remember",
-            "futureExample": "I will remember this moment forever.",
-            "song": "Remember Me - Miguel"
-        },
-        "forget": {
-            "presentSimple": "forget/forgets",
-            "presentExample": "She forgets her umbrella often.",
-            "pastSimple": "forgot",
-            "pastExample": "He forgot to bring his lunch.",
-            "futureSimple": "will forget",
-            "futureExample": "They will forget this day eventually.",
-            "song": "Forget You - CeeLo Green"
-        }         
+            "leave": {
+                "presentSimple": "leave/leaves",
+                "presentExample": "She leaves for work at 7 AM.",
+                "pastSimple": "left",
+                "pastExample": "They left the party early.",
+                "futureSimple": "will leave",
+                "futureExample": "We will leave the house in an hour.",
+                "song": "Leaving on a Jet Plane - John Denver",
+                "songLink": "https://www.youtube.com/watch?v=4c7ZqWJ_J8Y"
+            },
+            "call": {
+                "presentSimple": "call/calls",
+                "presentExample": "I call my parents every weekend.",
+                "pastSimple": "called",
+                "pastExample": "She called me last night.",
+                "futureSimple": "will call",
+                "futureExample": "They will call you when they arrive.",
+                "song": "Call Me Maybe - Carly Rae Jepsen",
+                "songLink": "https://www.youtube.com/watch?v=fWNaR-rxAic"
+            },
+            "keep": {
+                "presentSimple": "keep/keeps",
+                "presentExample": "He keeps his promises.",
+                "pastSimple": "kept",
+                "pastExample": "They kept their secret for years.",
+                "futureSimple": "will keep",
+                "futureExample": "I will keep this book for you.",
+                "song": "Keep Holding On - Avril Lavigne",
+                "songLink": "https://www.youtube.com/watch?v=5M2dZ8L2uV8"
+            },
+            "begin": {
+                "presentSimple": "begin/begins",
+                "presentExample": "She begins her day with yoga.",
+                "pastSimple": "began",
+                "pastExample": "He began his studies last year.",
+                "futureSimple": "will begin",
+                "futureExample": "They will begin the meeting soon.",
+                "song": "Begin Again - Taylor Swift",
+                "songLink": "https://www.youtube.com/watch?v=Or7IfxkF18o"
+            },
+            "help": {
+                "presentSimple": "help/helps",
+                "presentExample": "She helps her friends with homework.",
+                "pastSimple": "helped",
+                "pastExample": "He helped his neighbor fix the car.",
+                "futureSimple": "will help",
+                "futureExample": "I will help you move this weekend.",
+                "song": "Help! - The Beatles",
+                "songLink": "https://www.youtube.com/watch?v=5rAUpZFY3dY"
+            },
+            "talk": {
+                "presentSimple": "talk/talks",
+                "presentExample": "He talks too much during meetings.",
+                "pastSimple": "talked",
+                "pastExample": "They talked about their vacation plans.",
+                "futureSimple": "will talk",
+                "futureExample": "We will talk about it later.",
+                "song": "Talk - Coldplay",
+                "songLink": "https://www.youtube.com/watch?v=JYj0V_yV5Q0"
+            },
+            "turn": {
+                "presentSimple": "turn/turns",
+                "presentExample": "She turns the lights off before bed.",
+                "pastSimple": "turned",
+                "pastExample": "They turned the page to a new chapter.",
+                "futureSimple": "will turn",
+                "futureExample": "I will turn 30 next month.",
+                "song": "Turn the Page - Metallica",
+                "songLink": "https://www.youtube.com/watch?v=2mRf29RU2Co"
+            },
+            "start": {
+                "presentSimple": "start/starts",
+                "presentExample": "I start work at 9 AM.",
+                "pastSimple": "started",
+                "pastExample": "They started a new project last week.",
+                "futureSimple": "will start",
+                "futureExample": "She will start her new job next month.",
+                "song": "Start Me Up - The Rolling Stones",
+                "songLink": "https://www.youtube.com/watch?v=3p3yxwXH0O4"
+            },
+            "show": {
+                "presentSimple": "show/shows",
+                "presentExample": "He shows great talent in music.",
+                "pastSimple": "showed",
+                "pastExample": "She showed me her new car yesterday.",
+                "futureSimple": "will show",
+                "futureExample": "I will show you how to use this app.",
+                "song": "Show Me the Way - Peter Frampton",
+                "songLink": "https://www.youtube.com/watch?v=Jm0j-L0XXtQ"
+            },
+            "hear": {
+                "presentSimple": "hear/hears",
+                "presentExample": "I hear birds outside my window.",
+                "pastSimple": "heard",
+                "pastExample": "He heard the news from a friend.",
+                "futureSimple": "will hear",
+                "futureExample": "You will hear from me soon.",
+                "song": "I Heard It Through the Grapevine - Marvin Gaye",
+                "songLink": "https://www.youtube.com/watch?v=GzK3jlmA3GM"
+            },
+            "play": {
+                "presentSimple": "play/plays",
+                "presentExample": "He plays soccer on weekends.",
+                "pastSimple": "played",
+                "pastExample": "They played cards last night.",
+                "futureSimple": "will play",
+                "futureExample": "We will play tennis tomorrow.",
+                "song": "Play That Funky Music - Wild Cherry",
+                "songLink": "https://www.youtube.com/watch?v=0l6P-cSg83I"
+            },
+            "run": {
+                "presentSimple": "run/runs",
+                "presentExample": "She runs every morning.",
+                "pastSimple": "ran",
+                "pastExample": "He ran a marathon last year.",
+                "futureSimple": "will run",
+                "futureExample": "They will run in the race next weekend.",
+                "song": "Run - Foo Fighters",
+                "songLink": "https://www.youtube.com/watch?v=3qVPNONdF58"
+            },
+            "move": {
+                "presentSimple": "move/moves",
+                "presentExample": "I move to a new apartment next week.",
+                "pastSimple": "moved",
+                "pastExample": "They moved to a different city last year.",
+                "futureSimple": "will move",
+                "futureExample": "He will move the meeting to 2 PM.",
+                "song": "Move Along - The All-American Rejects",
+                "songLink": "https://www.youtube.com/watch?v=Ogrw0E1aG88"
+            },
+            "live": {
+                "presentSimple": "live/lives",
+                "presentExample": "She lives in a big city.",
+                "pastSimple": "lived",
+                "pastExample": "He lived in Paris for a year.",
+                "futureSimple": "will live",
+                "futureExample": "We will live by the beach next summer.",
+                "song": "Live and Let Die - Paul McCartney & Wings",
+                "songLink": "https://www.youtube.com/watch?v=kLx-QDZiyb8"
+            },
+            "believe": {
+                "presentSimple": "believe/believes",
+                "presentExample": "He believes in second chances.",
+                "pastSimple": "believed",
+                "pastExample": "She believed the story.",
+                "futureSimple": "will believe",
+                "futureExample": "They will believe you once they see proof.",
+                "song": "Believe - Cher",
+                "songLink": "https://www.youtube.com/watch?v=Jp6j5F6dS9Q"
+            },
+            "bring": {
+                "presentSimple": "bring/brings",
+                "presentExample": "She brings lunch to work every day.",
+                "pastSimple": "brought",
+                "pastExample": "They brought gifts for the host.",
+                "futureSimple": "will bring",
+                "futureExample": "I will bring dessert to the party.",
+                "song": "Bring Me to Life - Evanescence",
+                "songLink": "https://www.youtube.com/watch?v=3YqPKl79C14"
+            },
+            "write": {
+                "presentSimple": "write/writes",
+                "presentExample": "I write emails every morning.",
+                "pastSimple": "wrote",
+                "pastExample": "She wrote a book last year.",
+                "futureSimple": "will write",
+                "futureExample": "They will write the report by Friday.",
+                "song": "Write On Me - Fifth Harmony",
+                "songLink": "https://www.youtube.com/watch?v=pOMcUo9Yrx4"
+            },
+            "sit": {
+                "presentSimple": "sit/sits",
+                "presentExample": "She sits by the window in class.",
+                "pastSimple": "sat",
+                "pastExample": "He sat next to me during the meeting.",
+                "futureSimple": "will sit",
+                "futureExample": "I will sit with you at lunch.",
+                "song": "Sitting on the Dock of the Bay - Otis Redding",
+                "songLink": "https://www.youtube.com/watch?v=rTVjnBo96Ug"
+            },
+            "stand": {
+                "presentSimple": "stand/stands",
+                "presentExample": "He stands at the bus stop every morning.",
+                "pastSimple": "stood",
+                "pastExample": "She stood in line for hours.",
+                "futureSimple": "will stand",
+                "futureExample": "They will stand by their decision.",
+                "song": "Stand By Me - Ben E. King",
+                "songLink": "https://www.youtube.com/watch?v=I6w7foy2_qE"
+            },
+                "lose": {
+                    "presentSimple": "lose/loses",
+                    "presentExample": "He loses his keys often.",
+                    "pastSimple": "lost",
+                    "pastExample": "She lost her phone on the bus.",
+                    "futureSimple": "will lose",
+                    "futureExample": "They will lose the game if they don't try harder.",
+                    "song": "Lose Yourself - Eminem",
+                    "songLink": "https://www.youtube.com/watch?v=_Yhyp-_hX2s"
+                },
+                "pay": {
+                    "presentSimple": "pay/pays",
+                    "presentExample": "She pays her bills online.",
+                    "pastSimple": "paid",
+                    "pastExample": "He paid for dinner last night.",
+                    "futureSimple": "will pay",
+                    "futureExample": "I will pay you back tomorrow.",
+                    "song": "Payphone - Maroon 5",
+                    "songLink": "https://www.youtube.com/watch?v=KRaWnd3LJfs"
+                },
+                "meet": {
+                    "presentSimple": "meet/meets",
+                    "presentExample": "She meets new people easily.",
+                    "pastSimple": "met",
+                    "pastExample": "They met at the conference last year.",
+                    "futureSimple": "will meet",
+                    "futureExample": "We will meet again next month.",
+                    "song": "Meet Me Halfway - Black Eyed Peas",
+                    "songLink": "https://www.youtube.com/watch?v=SpjJf2f37go"
+                },
+                "include": {
+                    "presentSimple": "include/includes",
+                    "presentExample": "The package includes free delivery.",
+                    "pastSimple": "included",
+                    "pastExample": "He included all the necessary details.",
+                    "futureSimple": "will include",
+                    "futureExample": "The plan will include a backup option.",
+                    "song": "Include Me In Your Life - Diana Ross",
+                    "songLink": "https://www.youtube.com/watch?v=4quQw6f6lMk"
+                },
+                "set": {
+                    "presentSimple": "set/sets",
+                    "presentExample": "He sets the alarm for 6 AM every day.",
+                    "pastSimple": "set",
+                    "pastExample": "They set the table for dinner.",
+                    "futureSimple": "will set",
+                    "futureExample": "I will set the record straight.",
+                    "song": "Set Fire to the Rain - Adele",
+                    "songLink": "https://www.youtube.com/watch?v=UhFbhOES4gM"
+                },
+                "change": {
+                    "presentSimple": "change/changes",
+                    "presentExample": "She changes her password every month.",
+                    "pastSimple": "changed",
+                    "pastExample": "They changed their travel plans.",
+                    "futureSimple": "will change",
+                    "futureExample": "I will change my address soon.",
+                    "song": "A Change Is Gonna Come - Sam Cooke",
+                    "songLink": "https://www.youtube.com/watch?v=wEBlaMOm0sI"
+                },
+                "lead": {
+                    "presentSimple": "lead/leads",
+                    "presentExample": "She leads the team with confidence.",
+                    "pastSimple": "led",
+                    "pastExample": "He led the group to victory.",
+                    "futureSimple": "will lead",
+                    "futureExample": "They will lead the discussion tomorrow.",
+                    "song": "Lead the Way - Mariah Carey",
+                    "songLink": "https://www.youtube.com/watch?v=7sKb4b9iEkw"
+                },
+                "understand": {
+                    "presentSimple": "understand/understands",
+                    "presentExample": "He understands the situation well.",
+                    "pastSimple": "understood",
+                    "pastExample": "She understood the instructions perfectly.",
+                    "futureSimple": "will understand",
+                    "futureExample": "You will understand when you see it.",
+                    "song": "Understand - Shawn Mendes",
+                    "songLink": "https://www.youtube.com/watch?v=ex8qG4arXsI"
+                },
+                "watch": {
+                    "presentSimple": "watch/watches",
+                    "presentExample": "She watches TV every evening.",
+                    "pastSimple": "watched",
+                    "pastExample": "They watched a movie last night.",
+                    "futureSimple": "will watch",
+                    "futureExample": "I will watch the game tomorrow.",
+                    "song": "Watch Me - Silentó",
+                    "songLink": "https://www.youtube.com/watch?v=0ev2F6nDe0M"
+                },
+                "follow": {
+                    "presentSimple": "follow/follows",
+                    "presentExample": "He follows the rules strictly.",
+                    "pastSimple": "followed",
+                    "pastExample": "She followed her dreams.",
+                    "futureSimple": "will follow",
+                    "futureExample": "They will follow the instructions carefully.",
+                    "song": "Follow You - Imagine Dragons",
+                    "songLink": "https://www.youtube.com/watch?v=HgYN7No99Q0"
+                },
+                "stop": {
+                    "presentSimple": "stop/stops",
+                    "presentExample": "The bus stops at the next station.",
+                    "pastSimple": "stopped",
+                    "pastExample": "They stopped working at 5 PM.",
+                    "futureSimple": "will stop",
+                    "futureExample": "I will stop by your house later.",
+                    "song": "Don't Stop Believin' - Journey",
+                    "songLink": "https://www.youtube.com/watch?v=1k8craCGpgs"
+                },
+                "create": {
+                    "presentSimple": "create/creates",
+                    "presentExample": "He creates beautiful artwork.",
+                    "pastSimple": "created",
+                    "pastExample": "She created a new design last week.",
+                    "futureSimple": "will create",
+                    "futureExample": "I will create a new account tomorrow.",
+                    "song": "Create In Me - Hillsong Worship",
+                    "songLink": "https://www.youtube.com/watch?v=8e9H9rkPCXE"
+                },
+                "allow": {
+                    "presentSimple": "allow/allows",
+                    "presentExample": "The software allows users to edit files.",
+                    "pastSimple": "allowed",
+                    "pastExample": "They allowed him to join the team.",
+                    "futureSimple": "will allow",
+                    "futureExample": "We will allow more people in soon.",
+                    "song": "Allow Me To Reintroduce Myself - Jay-Z",
+                    "songLink": "https://www.youtube.com/watch?v=x0e2v8CQFS0"
+                },
+                "add": {
+                    "presentSimple": "add/adds",
+                    "presentExample": "He adds sugar to his coffee.",
+                    "pastSimple": "added",
+                    "pastExample": "She added a new member to the group.",
+                    "futureSimple": "will add",
+                    "futureExample": "I will add this book to my list.",
+                    "song": "Add It Up - Violent Femmes",
+                    "songLink": "https://www.youtube.com/watch?v=pFMQxRuf7Zw"
+                },
+                "continue": {
+                    "presentSimple": "continue/continues",
+                    "presentExample": "She continues to work hard every day.",
+                    "pastSimple": "continued",
+                    "pastExample": "They continued despite the obstacles.",
+                    "futureSimple": "will continue",
+                    "futureExample": "We will continue the project tomorrow.",
+                    "song": "Continue - Omar Apollo",
+                    "songLink": "https://www.youtube.com/watch?v=B4LqK6cDJ1U"
+                },
+                    "learn": {
+                        "presentSimple": "learn/learns",
+                        "presentExample": "He learns quickly in class.",
+                        "pastSimple": "learned/learnt",
+                        "pastExample": "She learned how to play the guitar last year.",
+                        "futureSimple": "will learn",
+                        "futureExample": "They will learn a new language soon.",
+                        "song": "Learn To Fly - Foo Fighters",
+                        "songLink": "https://www.youtube.com/watch?v=1cQh2F2Cw6U"
+                    },
+                    "change": {
+                        "presentSimple": "change/changes",
+                        "presentExample": "She changes her outfit every day.",
+                        "pastSimple": "changed",
+                        "pastExample": "They changed their plans last minute.",
+                        "futureSimple": "will change",
+                        "futureExample": "I will change the tires tomorrow.",
+                        "song": "A Change is Gonna Come - Sam Cooke",
+                        "songLink": "https://www.youtube.com/watch?v=wEBlaMOo8lU"
+                    },
+                    "build": {
+                        "presentSimple": "build/builds",
+                        "presentExample": "He builds houses for a living.",
+                        "pastSimple": "built",
+                        "pastExample": "They built the house last year.",
+                        "futureSimple": "will build",
+                        "futureExample": "We will build the structure next week.",
+                        "song": "Build Me Up Buttercup - The Foundations",
+                        "songLink": "https://www.youtube.com/watch?v=1W6JXz5fzZA"
+                    },
+                    "spend": {
+                        "presentSimple": "spend/spends",
+                        "presentExample": "He spends too much money on clothes.",
+                        "pastSimple": "spent",
+                        "pastExample": "They spent the whole day shopping.",
+                        "futureSimple": "will spend",
+                        "futureExample": "I will spend the weekend at the beach.",
+                        "song": "Spending My Time - Roxette",
+                        "songLink": "https://www.youtube.com/watch?v=nI2JzO_gjEo"
+                    },
+                    "cut": {
+                        "presentSimple": "cut/cuts",
+                        "presentExample": "He cuts the paper into small pieces.",
+                        "pastSimple": "cut",
+                        "pastExample": "They cut the ribbon at the opening ceremony.",
+                        "futureSimple": "will cut",
+                        "futureExample": "I will cut the cake tomorrow.",
+                        "song": "Cut You Off - Selena Gomez",
+                        "songLink": "https://www.youtube.com/watch?v=TO0e_mV9dcQ"
+                    },
+                    "rise": {
+                        "presentSimple": "rise/rises",
+                        "presentExample": "The sun rises in the east.",
+                        "pastSimple": "rose",
+                        "pastExample": "He rose to the top of the class.",
+                        "futureSimple": "will rise",
+                        "futureExample": "The stock prices will rise soon.",
+                        "song": "Rise - Katy Perry",
+                        "songLink": "https://www.youtube.com/watch?v=3tmd-ClpJxA"
+                    },
+                    "fall": {
+                        "presentSimple": "fall/falls",
+                        "presentExample": "She falls asleep early every night.",
+                        "pastSimple": "fell",
+                        "pastExample": "He fell down the stairs.",
+                        "futureSimple": "will fall",
+                        "futureExample": "The leaves will fall in autumn.",
+                        "song": "Fallin' - Alicia Keys",
+                        "songLink": "https://www.youtube.com/watch?v=3Lw8H2Zl12k"
+                    },
+                    "catch": {
+                        "presentSimple": "catch/catches",
+                        "presentExample": "He catches the bus every morning.",
+                        "pastSimple": "caught",
+                        "pastExample": "They caught the thief last night.",
+                        "futureSimple": "will catch",
+                        "futureExample": "I will catch the next flight to New York.",
+                        "song": "Catch My Breath - Kelly Clarkson",
+                        "songLink": "https://www.youtube.com/watch?v=5H0K8dxa7nE"
+                    },
+                    "reach": {
+                        "presentSimple": "reach/reaches",
+                        "presentExample": "He reaches the top of the mountain.",
+                        "pastSimple": "reached",
+                        "pastExample": "They reached their destination safely.",
+                        "futureSimple": "will reach",
+                        "futureExample": "I will reach out to you tomorrow.",
+                        "song": "Reach Out I'll Be There - The Four Tops",
+                        "songLink": "https://www.youtube.com/watch?v=kHgl0J_PdcM"
+                    },
+                    "choose": {
+                        "presentSimple": "choose/chooses",
+                        "presentExample": "She chooses her clothes carefully.",
+                        "pastSimple": "chose",
+                        "pastExample": "They chose the right candidate for the job.",
+                        "futureSimple": "will choose",
+                        "futureExample": "We will choose the best option.",
+                        "song": "You Can’t Always Get What You Want - The Rolling Stones",
+                        "songLink": "https://www.youtube.com/watch?v=7PTHK4YJ8DI"
+                    },
+                    "turn": {
+                        "presentSimple": "turn/turns",
+                        "presentExample": "He turns the key in the lock.",
+                        "pastSimple": "turned",
+                        "pastExample": "She turned off the lights.",
+                        "futureSimple": "will turn",
+                        "futureExample": "I will turn in my report tomorrow.",
+                        "song": "Turn Around - Bonnie Tyler",
+                        "songLink": "https://www.youtube.com/watch?v=lcOxhH8N3Bo"
+                    },
+                    "show": {
+                        "presentSimple": "show/shows",
+                        "presentExample": "He shows his artwork to the gallery.",
+                        "pastSimple": "showed",
+                        "pastExample": "They showed the film at the festival.",
+                        "futureSimple": "will show",
+                        "futureExample": "I will show you the results later.",
+                        "song": "Show Must Go On - Queen",
+                        "songLink": "https://www.youtube.com/watch?v=t99KH0TR-Uo"
+                    },
+                    "try": {
+                        "presentSimple": "try/tries",
+                        "presentExample": "She tries her best in every task.",
+                        "pastSimple": "tried",
+                        "pastExample": "He tried a new recipe last night.",
+                        "futureSimple": "will try",
+                        "futureExample": "They will try the new method next week.",
+                        "song": "Try Again - Aaliyah",
+                        "songLink": "https://www.youtube.com/watch?v=0DJuQDPowR4"
+                    },
+                    "hear": {
+                        "presentSimple": "hear/hears",
+                        "presentExample": "He hears the music from the concert.",
+                        "pastSimple": "heard",
+                        "pastExample": "She heard the news yesterday.",
+                        "futureSimple": "will hear",
+                        "futureExample": "We will hear the results soon.",
+                        "song": "I Can Hear Music - The Ronettes",
+                        "songLink": "https://www.youtube.com/watch?v=5hzw-TZw64Y"
+                    },
+                    "write": {
+                        "presentSimple": "write/writes",
+                        "presentExample": "She writes in her journal every day.",
+                        "pastSimple": "wrote",
+                        "pastExample": "He wrote a letter to his friend.",
+                        "futureSimple": "will write",
+                        "futureExample": "I will write the report by tomorrow.",
+                        "song": "Write Your Name - LUNA",
+                        "songLink": "https://www.youtube.com/watch?v=OTZyWaOjiSg"
+                    },
+                    "build": {
+                        "presentSimple": "build/builds",
+                        "presentExample": "He builds model airplanes as a hobby.",
+                        "pastSimple": "built",
+                        "pastExample": "They built a new playground last summer.",
+                        "futureSimple": "will build",
+                        "futureExample": "We will build a new house next year.",
+                        "song": "Build Me Up Buttercup - The Foundations",
+                        "songLink": "https://www.youtube.com/watch?v=1W6JXz5fzZA"
+                    },
+                    "read": {
+                        "presentSimple": "read/reads",
+                        "presentExample": "She reads books every evening.",
+                        "pastSimple": "read",
+                        "pastExample": "He read the novel last month.",
+                        "futureSimple": "will read",
+                        "futureExample": "They will read the document tomorrow.",
+                        "song": "Read All About It - Emeli Sandé",
+                        "songLink": "https://www.youtube.com/watch?v=V17e25ZSWqI"
+                    },
+                    "bring": {
+                        "presentSimple": "bring/brings",
+                        "presentExample": "He brings his lunch to work every day.",
+                        "pastSimple": "brought",
+                        "pastExample": "She brought her camera to the party.",
+                        "futureSimple": "will bring",
+                        "futureExample": "I will bring the documents later.",
+                        "song": "Bring Me to Life - Evanescence",
+                        "songLink": "https://www.youtube.com/watch?v=3YxaaGgTQYM"
+                    },
+                        "drive": {
+                            "presentSimple": "drive/drives",
+                            "presentExample": "She drives to work every morning.",
+                            "pastSimple": "drove",
+                            "pastExample": "They drove across the country last summer.",
+                            "futureSimple": "will drive",
+                            "futureExample": "We will drive to the beach tomorrow.",
+                            "song": "Drive - The Cars",
+                            "songLink": "https://www.youtube.com/watch?v=V-2DUfIjChM"
+                        },
+                        "learn": {
+                            "presentSimple": "learn/learns",
+                            "presentExample": "He learns new skills online.",
+                            "pastSimple": "learned/learnt",
+                            "pastExample": "She learned to cook last year.",
+                            "futureSimple": "will learn",
+                            "futureExample": "I will learn more about the topic.",
+                            "song": "Learn to Fly - Foo Fighters",
+                            "songLink": "https://www.youtube.com/watch?v=1b6tCNL4G7g"
+                        },
+                        "move": {
+                            "presentSimple": "move/moves",
+                            "presentExample": "They move the furniture around.",
+                            "pastSimple": "moved",
+                            "pastExample": "He moved to a new city last month.",
+                            "futureSimple": "will move",
+                            "futureExample": "We will move into our new house next week.",
+                            "song": "Move Like Jagger - Maroon 5",
+                            "songLink": "https://www.youtube.com/watch?v=iEPTlhBmwRg"
+                        },
+                        "lose": {
+                            "presentSimple": "lose/loses",
+                            "presentExample": "She loses her keys often.",
+                            "pastSimple": "lost",
+                            "pastExample": "He lost his wallet yesterday.",
+                            "futureSimple": "will lose",
+                            "futureExample": "They will lose the match if they don't practice.",
+                            "song": "Lose Yourself - Eminem",
+                            "songLink": "https://www.youtube.com/watch?v=_Yhyp-_hX2s"
+                        },
+                        "win": {
+                            "presentSimple": "win/wins",
+                            "presentExample": "He wins the race every year.",
+                            "pastSimple": "won",
+                            "pastExample": "She won the award last month.",
+                            "futureSimple": "will win",
+                            "futureExample": "We will win the game if we work together.",
+                            "song": "We Are the Champions - Queen",
+                            "songLink": "https://www.youtube.com/watch?v=04854XqcfCY"
+                        },
+                        "keep": {
+                            "presentSimple": "keep/keeps",
+                            "presentExample": "She keeps her promises.",
+                            "pastSimple": "kept",
+                            "pastExample": "He kept his room clean.",
+                            "futureSimple": "will keep",
+                            "futureExample": "They will keep their plans secret.",
+                            "song": "Keep Holding On - Avril Lavigne",
+                            "songLink": "https://www.youtube.com/watch?v=kq5fBG9NNo4"
+                        },
+                        "send": {
+                            "presentSimple": "send/sends",
+                            "presentExample": "He sends emails every day.",
+                            "pastSimple": "sent",
+                            "pastExample": "She sent the package yesterday.",
+                            "futureSimple": "will send",
+                            "futureExample": "I will send the information soon.",
+                            "song": "Send My Love (To Your New Lover) - Adele",
+                            "songLink": "https://www.youtube.com/watch?v=5QmJ_v_A3V8"
+                        },
+                        "open": {
+                            "presentSimple": "open/opens",
+                            "presentExample": "She opens the store at 9 AM.",
+                            "pastSimple": "opened",
+                            "pastExample": "They opened the new branch last month.",
+                            "futureSimple": "will open",
+                            "futureExample": "I will open the file later.",
+                            "song": "Open Your Eyes - Snow Patrol",
+                            "songLink": "https://www.youtube.com/watch?v=TW9i4vR60uE"
+                        },
+                        "close": {
+                            "presentSimple": "close/closes",
+                            "presentExample": "He closes the door quietly.",
+                            "pastSimple": "closed",
+                            "pastExample": "She closed the book after reading.",
+                            "futureSimple": "will close",
+                            "futureExample": "We will close the shop at 7 PM.",
+                            "song": "Close to You - The Carpenters",
+                            "songLink": "https://www.youtube.com/watch?v=5I8vN-15ocM"
+                        },
+                        "sing": {
+                            "presentSimple": "sing/sings",
+                            "presentExample": "He sings in the choir.",
+                            "pastSimple": "sang",
+                            "pastExample": "She sang at the concert last night.",
+                            "futureSimple": "will sing",
+                            "futureExample": "They will sing at the wedding.",
+                            "song": "Sing - My Chemical Romance",
+                            "songLink": "https://www.youtube.com/watch?v=s4US-XjzlwA"
+                        },
+                        "dance": {
+                            "presentSimple": "dance/dances",
+                            "presentExample": "She dances at the studio every week.",
+                            "pastSimple": "danced",
+                            "pastExample": "He danced at the party last weekend.",
+                            "futureSimple": "will dance",
+                            "futureExample": "We will dance at the festival.",
+                            "song": "Dance Monkey - Tones and I",
+                            "songLink": "https://www.youtube.com/watch?v=q0hM9AYGsV4"
+                        },
+                        "remember": {
+                            "presentSimple": "remember/remembers",
+                            "presentExample": "He remembers his first day at work.",
+                            "pastSimple": "remembered",
+                            "pastExample": "She remembered to call her mother.",
+                            "futureSimple": "will remember",
+                            "futureExample": "I will remember this moment forever.",
+                            "song": "Remember Me - Miguel",
+                            "songLink": "https://www.youtube.com/watch?v=OlXV1nt-EpM"
+                        },
+                        "forget": {
+                            "presentSimple": "forget/forgets",
+                            "presentExample": "She forgets her umbrella often.",
+                            "pastSimple": "forgot",
+                            "pastExample": "He forgot to bring his lunch.",
+                            "futureSimple": "will forget",
+                            "futureExample": "They will forget this day eventually.",
+                            "song": "Forget You - CeeLo Green",
+                            "songLink": "https://www.youtube.com/watch?v=Kp5XYvZbnrY"
+                        }                
 }
