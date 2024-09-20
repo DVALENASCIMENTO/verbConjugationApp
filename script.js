@@ -1,4 +1,4 @@
-document.getElementById('verbSelector').addEventListener('change', function() {
+document.getElementById('verbSelector').addEventListener('change', function() { 
     const verb = this.value;
     if (verb) {
         // Carregar o JSON e fazer a conjugação
@@ -24,33 +24,32 @@ function conjugateVerb(verb, data) {
     verbTitle.textContent = `Verb: ${verb}`;
     tensesDiv.innerHTML = '';
     
-    // Mapeamento de conjugação para verbos específicos
-    const defaultConjugations = {
-        presentSimple: `${verb} (e.g., I ${verb})`,
-        pastSimple: `${verb}ed (e.g., I ${verb}ed)`,
-        futureSimple: `will ${verb} (e.g., I will ${verb})`
+    // Mapeamento de conjugação para o verbo selecionado
+    const tenseConjugations = data[verb] || {
+        presentSimple: `${verb}`,
+        pastSimple: `${verb}ed`,
+        futureSimple: `will ${verb}`
     };
-
-    const tenseConjugations = data[verb] || defaultConjugations;
 
     const tenses = [
         {
             name: 'Present Simple',
             conjugation: tenseConjugations.presentSimple,
-            example: `Song lyric: "I ${verb} you every day."`
+            example: tenseConjugations.presentExample || `I ${tenseConjugations.presentSimple} you every day.`
         },
         {
             name: 'Past Simple',
             conjugation: tenseConjugations.pastSimple,
-            example: `Song lyric: "I ${verb}ed you yesterday."`
+            example: tenseConjugations.pastExample || `I ${tenseConjugations.pastSimple} you yesterday.`
         },
         {
             name: 'Future Simple',
             conjugation: tenseConjugations.futureSimple,
-            example: `Song lyric: "I will ${verb} you tomorrow."`
+            example: tenseConjugations.futureExample || `I will ${verb} you tomorrow.`
         }
     ];
 
+    // Adiciona cada tempo verbal com exemplo à tela
     tenses.forEach(tense => {
         const tenseDiv = document.createElement('div');
         tenseDiv.classList.add('tense');
