@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
-    color: #333;
+    background-color: #00247d; /* Azul escuro da bandeira */
+    color: #ffffff; /* Branco para o texto */
     margin: 0;
     padding: 0;
 }
@@ -11,31 +11,102 @@ body {
     padding: 50px;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap'); /* Fonte inspirada na realeza */
+
 h1 {
-    color: #4CAF50;
-    font-size: 36px;
+    font-family: 'Cinzel', serif; /* Fonte com estilo real */
+    font-size: 48px;
+    background: linear-gradient(90deg, #00247d, #ffffff, #cf142b); /* Degradê nas cores do Reino Unido */
+    background-size: 300%;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    animation: gradientAnimation 5s ease-in-out infinite;
+    position: relative;
+    z-index: 1; /* Garante que o texto fique acima da imagem */
+    display: inline-block;
+    padding: 10px 20px;
+    margin-bottom: 30px; /* Espaçamento abaixo do título */
+}
+
+h1::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('https://flagpedia.net/data/flags/h80/gb.png'); /* Nova URL da bandeira */
+    background-size: cover; /* Ajusta o tamanho da bandeira */
+    background-position: center;
+    opacity: 0.2; /* Define a transparência da bandeira */
+    z-index: -1; /* Coloca a bandeira atrás do texto */
+    border-radius: 10px; /* Bordas arredondadas, opcional */
+}
+
+/* Animação do degradê */
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0%;
+    }
+    50% {
+        background-position: 100%;
+    }
+    100% {
+        background-position: 0%;
+    }
 }
 
 select {
     padding: 10px;
     font-size: 18px;
     margin-bottom: 20px;
+    background-color: #ffffff; /* Branco */
+    border: 2px solid #cf142b; /* Borda vermelha */
+    color: #00247d; /* Azul escuro */
+    border-radius: 5px;
+    display: block; /* Garante que o seletor ocupe toda a largura disponível */
+    margin: 0 auto; /* Centraliza o seletor */
 }
 
 .conjugation-container {
     display: none;
     margin-top: 20px;
-    background-color: #fff;
-    border: 1px solid #ddd;
+    background-color: #ffffff; /* Branco */
+    border: 1px solid #cf142b; /* Borda vermelha */
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
 h2 {
     font-size: 28px;
-    color: #333;
+    color: #00247d; /* Azul escuro */
 }
+
+.tense {
+    margin-bottom: 20px;
+    position: relative; /* Necessário para posicionar o botão de som */
+}
+
+.tense button {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #cf142b; /* Cor do botão */
+    border: none;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.tense button:hover {
+    background: #a00a1d; /* Cor do botão quando hover */
+}
+
 
 .tense {
     margin-bottom: 20px;
@@ -43,15 +114,15 @@ h2 {
 
 .tense h3 {
     font-size: 22px;
-    color: #555;
+    color: #cf142b; /* Vermelho */
 }
 
 .tense p {
     font-size: 18px;
-    color: #666;
+    color: #00247d; /* Azul escuro */
 }
 
 .example {
     font-style: italic;
-    color: #888;
+    color: #666666; /* Cinza suave */
 }

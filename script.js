@@ -1,4 +1,4 @@
-document.getElementById('verbSelector').addEventListener('change', function() { 
+document.getElementById('verbSelector').addEventListener('change', function() {
     const verb = this.value;
     if (verb) {
         // Carregar o JSON e fazer a conjugação
@@ -63,10 +63,26 @@ function conjugateVerb(verb, data) {
         const example = document.createElement('p');
         example.textContent = `Example: ${tense.example}`;
 
+        // Botão de som
+        const soundButton = document.createElement('button');
+        soundButton.textContent = '🔊'; // Emoji de alto-falante como ícone
+
+        soundButton.addEventListener('click', () => {
+            speakText(tense.example);
+        });
+
         tenseDiv.appendChild(tenseTitle);
         tenseDiv.appendChild(conjugation);
         tenseDiv.appendChild(example);
+        tenseDiv.appendChild(soundButton); // Adiciona o botão de som ao div do tempo verbal
 
         tensesDiv.appendChild(tenseDiv);
     });
+}
+
+function speakText(text) {
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'en-US'; // Define o idioma para inglês
+    utterance.rate = 0.8; // Ajuste a taxa de leitura (0.1 a 10, sendo 1 a taxa padrão)
+    speechSynthesis.speak(utterance);
 }
