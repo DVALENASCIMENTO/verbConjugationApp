@@ -107,11 +107,6 @@ h2 {
     background: #a00a1d; /* Cor do botão quando hover */
 }
 
-
-.tense {
-    margin-bottom: 20px;
-}
-
 .tense h3 {
     font-size: 22px;
     color: #cf142b; /* Vermelho */
@@ -125,4 +120,71 @@ h2 {
 .example {
     font-style: italic;
     color: #666666; /* Cinza suave */
+}
+
+/* Estilos responsivos */
+@media (max-width: 1200px) {
+    h1 {
+        font-size: 42px;
+    }
+
+    h2 {
+        font-size: 26px;
+    }
+
+    .app-container {
+        padding: 30px;
+    }
+
+    .conjugation-container {
+        padding: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 36px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    select {
+        font-size: 16px;
+        padding: 8px;
+    }
+
+    .conjugation-container {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 30px;
+        padding: 5px 10px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    select {
+        font-size: 14px;
+        padding: 6px;
+    }
+
+    .tense button {
+        font-size: 16px;
+        padding: 3px 8px;
+    }
+
+    .conjugation-container {
+        padding: 5px;
+    }
+
+    .app-container {
+        padding: 20px;
+    }
 }
