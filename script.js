@@ -23,9 +23,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Carrega palavras do JSON
     fetch('words.json')
-        .then(response => response.json())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
         .then(data => {
             words = data.words;
+            console.log('Words loaded:', words); // Verifica se as palavras foram carregadas corretamente
         })
         .catch(error => console.error('Error loading words JSON:', error));
 
@@ -74,6 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
         wordDisplay.textContent = '';
     }
 });
+
 
 
 
