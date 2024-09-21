@@ -135,7 +135,7 @@ function conjugateVerb(verb, data) {
 
         // Link para a música
         const songLink = document.createElement('p');
-        const songUrl = tenseConjugations.song; // Obtém o URL da música
+        const songUrl = tenseConjugations.songLink; // Corrigido para songLink
         if (songUrl) {
             songLink.innerHTML = `Listen to the song: <a href="${songUrl}" target="_blank">here</a>`;
         }
