@@ -37,7 +37,7 @@ h1::before {
     right: 0;
     bottom: 0;
     background-image: url('https://flagpedia.net/data/flags/h80/gb.png'); /* Nova URL da bandeira */
-    background-size: cover; /* Ajusta o tamanho da bandeira */
+    background-size:cover ; /* Ajusta o tamanho da bandeira */
     background-position: center;
     opacity: 0.2; /* Define a transparência da bandeira */
     z-index: -1; /* Coloca a bandeira atrás do texto */
@@ -121,6 +121,44 @@ h2 {
     font-style: italic;
     color: #666666; /* Cinza suave */
 }
+
+.quiz-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+#wordDisplay {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#knowButton {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+#dontKnowButton {
+    background-color: #f44336; /* Red */
+    color: white;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
 
 /* Estilos responsivos */
 @media (max-width: 1200px) {

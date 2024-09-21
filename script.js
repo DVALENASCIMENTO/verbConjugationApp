@@ -16,6 +16,67 @@ document.getElementById('verbSelector').addEventListener('change', function() {
     }
 });
 
+document.addEventListener('DOMContentLoaded', () => {
+    let words = [];
+    let currentIndex = 0;
+    let knownCount = 0;
+
+    // Carrega palavras do JSON
+    fetch('words.json')
+        .then(response => response.json())
+        .then(data => {
+            words = data.words;
+        })
+        .catch(error => console.error('Error loading words JSON:', error));
+
+    const wordDisplay = document.getElementById('wordDisplay');
+    const knowButton = document.getElementById('knowButton');
+    const dontKnowButton = document.getElementById('dontKnowButton');
+    const result = document.getElementById('result');
+    const quizContainer = document.getElementById('quizContainer');
+    const startQuizButton = document.getElementById('startQuizButton');
+
+    startQuizButton.addEventListener('click', () => {
+        startQuiz();
+    });
+
+    knowButton.addEventListener('click', () => {
+        knownCount++;
+        nextWord();
+    });
+
+    dontKnowButton.addEventListener('click', () => {
+        nextWord();
+    });
+
+    function startQuiz() {
+        quizContainer.style.display = 'block';
+        startQuizButton.style.display = 'none'; // Oculta o botão de iniciar quiz
+        displayWord();
+    }
+
+    function displayWord() {
+        if (currentIndex < words.length) {
+            wordDisplay.textContent = words[currentIndex];
+        } else {
+            showResult();
+        }
+    }
+
+    function nextWord() {
+        currentIndex++;
+        displayWord();
+    }
+
+    function showResult() {
+        const totalWords = words.length;
+        result.textContent = `Você conhece ${knownCount} de ${totalWords} palavras (${((knownCount / totalWords) * 100).toFixed(2)}%)`;
+        wordDisplay.textContent = '';
+    }
+});
+
+
+
 function conjugateVerb(verb, data) {
     const verbTitle = document.getElementById('verbTitle');
     const tensesDiv = document.getElementById('tenses');
@@ -63,13 +124,7 @@ function conjugateVerb(verb, data) {
         const example = document.createElement('p');
         example.textContent = `Example: ${tense.example}`;
 
-        // Botão de som
-        const soundButton = document.createElement('button');
-        soundButton.textContent = '🔊'; // Emoji de alto-falante como ícone
-
-        soundButton.addEventListener('click', () => {
-            speakText(tense.example);
-        });
+        
 
         // Link para a música
         const songLink = document.createElement('p');
@@ -77,6 +132,14 @@ function conjugateVerb(verb, data) {
         if (songUrl) {
             songLink.innerHTML = `Listen to the song: <a href="${songUrl}" target="_blank">here</a>`;
         }
+
+        // Botão de som
+        const soundButton = document.createElement('button');
+        soundButton.textContent = '🔊'; // Emoji de alto-falante como ícone
+
+        soundButton.addEventListener('click', () => {
+            speakText(tense.example);
+        });
 
         tenseDiv.appendChild(tenseTitle);
         tenseDiv.appendChild(conjugation);
